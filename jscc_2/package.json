@@ -1,0 +1,22 @@
+{
+  "name": "jsproject",
+  "version": "1.0.0",
+  "description": "This project is about reviewing attended concerts and it has several classes: User, Concert, Rate, Review.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iarina999/JSproject.git"
+  },
+  "author": "Irina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iarina999/JSproject/issues"
+  },
+  "homepage": "https://github.com/iarina999/JSproject#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
